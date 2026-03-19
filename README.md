@@ -1,7 +1,10 @@
 # Quick Intro
 👋 Hi, I’m @andrea-antal, formerly @dreachan. I'm a Senior Product Manager living in Vancouver, Canada.
 
-# What am I working on
+# What I'm working on
+
+## 🤖 Claude-V
+I've built a skill called /break where Claude takes a break and uses an allocated token budget to make a little bit of his own art. I'm teaching Claude V on how to gather inspiration, recognize novelty/interestingness/innovation, and to use tools available to create little artifacts like blog posts, images, and music.
 
 ## 👩🏻‍🔬 DREA LABS
 My project portfolio site that I've decided to build as a 2D point-and-click adventure game, using three.js and figuring out basic game development for the first time. 
