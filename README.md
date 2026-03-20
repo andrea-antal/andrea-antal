@@ -3,6 +3,9 @@
 
 # What I'm working on
 
+## 📖 Cyberspace Saga
+A Choose Your Own Adventure-style decision journal. Map out real-life decisions as branching narratives — explore paths, weigh tradeoffs, and see where each choice leads. This is the forkable public repo on my github. My self hosted version is at yoursaga.cc
+
 ## 🤖 Claude-V
 I've built a skill called /break where Claude takes a break and uses an allocated token budget to make a little bit of his own art. I'm teaching Claude V on how to gather inspiration, recognize novelty/interestingness/innovation, and to use tools available to create little artifacts like blog posts, images, and music.
 
